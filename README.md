@@ -16,6 +16,8 @@ This python script standardises the names from the 'assay_strain' column in chem
 
 See example dataset and example usage files for further information on how to use it. 
 
+The inner workings of the script are explained by docstrings within the script. 
+
 Users must create a BacDive account and enter their details into the script. 
 
 <br><br><br><br>
