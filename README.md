@@ -9,7 +9,7 @@ for example when analysing data for Klebsiella pneumoniae, the strain ATCC 70060
 
 While these diffreences can be resolved with a simple regular expression, the ATCC 700603 actually refers to a strain derived from a single isolate that is kept by multiple tissue repositories under different acession codes (e.g., LMG 20218, CCUG 45421, CCM 4985). 
 
-All of these names refer to the same strain, with the same antimicobial susceptibility profile, however there is currently no standardised naming system in the ChEMBL database that captures this. 
+All of these names refer to the same strain, with in theory, the same antimicobial susceptibility profile, however there is currently no standardised naming system in the ChEMBL database that captures this. 
 
 **ChEMBL_BacterialStrainClassifier** <br>
 This python script standardises the names from the 'assay_strain' column in chembl by creating a new column containing the BacDive IDs (1).
